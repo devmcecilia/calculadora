@@ -1,24 +1,39 @@
-# Calculadora PHP
+# 🧮 Calculadora PHP
 
-Uma calculadora simples desenvolvida com PHP, HTML, CSS e JavaScript.
+Uma calculadora web desenvolvida como projeto de estudo para praticar programação e desenvolvimento web.
 
-## Funcionalidades
-- Adição, subtração, multiplicação e divisão.
-- Validação dos números digitados.
-- Tratamento de divisão por zero.
-- Interface simples e responsiva.
+## 📸 Demonstração
 
-## Tecnologias utilizadas
+![Interface da Calculadora](imagens/calculadora.png)
+
+## ✨ Funcionalidades
+
+- ➕ Adição
+- ➖ Subtração
+- ✖️ Multiplicação
+- ➗ Divisão
+- ✅ Validação dos números informados
+- ⚠️ Tratamento de divisão por zero
+- 🎨 Interface com tema escuro
+
+## 🛠️ Tecnologias utilizadas
+
 - PHP
 - HTML5
 - CSS3
 - JavaScript
 
-## Como executar
-1. Instale o XAMPP.
-2. Coloque a pasta do projeto dentro de `C:\xampp\htdocs\`.
-3. Inicie o Apache no painel do XAMPP.
+## 🚀 Como executar localmente
+
+1. Instale o [XAMPP](https://www.apachefriends.org/).
+2. Copie a pasta do projeto para `C:\xampp\htdocs\projetos`.
+3. Abra o painel do XAMPP e inicie o Apache.
 4. Acesse `http://localhost/projetos/` no navegador.
 
-## Autora
-Projeto desenvolvido para praticar programação.
+## 📚 Objetivo
+
+Este projeto foi desenvolvido para praticar lógica de programação, manipulação de formulários, validação de dados e estilização de interfaces web.
+
+## 👩‍💻 Autora
+
+Projeto pessoal desenvolvido para fins de aprendizado e portfólio.
