@@ -4,7 +4,7 @@ Uma calculadora web desenvolvida como projeto de estudo para praticar programaç
 
 ## 📸 Demonstração
 
-![Interface da Calculadora](imagens/calculadora.png)
+![Interface da Calculadora](calculadora.png)
 
 ## ✨ Funcionalidades
 
